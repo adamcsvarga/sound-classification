@@ -1,8 +1,0 @@
-# Sound Classification Tool
-## Created by Adam Varga, 2015
-
-This tool can be used for naïve sound classification. It extracts MFCC coefficients from the sound files, and applies different state-of-the art supervised classification 
-methods on them. The number of MFCC-coefficients should be adjusted according to the characteristics of the data at hand by the `num_coeffs` parameter of the functions in `extract_features.py`.
-
-### Usage
-
