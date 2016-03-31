@@ -11,3 +11,5 @@ penultimate and ante-penultimate fields in the filename. E. g. the filename `sam
 
 Sound files should be provided by the user; the claasification methods can be used for any sort of sound classification by slight modification of the code and free parameters. Train-test splitting is done
 automatically as a 70% percentage split by default. 
+
+Execute `run_exp.py` to run all the example training and testing on your data.
